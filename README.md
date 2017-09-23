@@ -11,4 +11,13 @@ Motion detection based light control done with Arduino.
 - 12V 3A Power supply
 - 2 and 3 pins screw connector
 
+### Build instructions:
+ In order to build the code using Arduino IDE, install the BH1750 library by claws
+ https://github.com/claws/BH1750
+ See BH1750 github homepage for details.
+ 
+
+ 
+
+
 
