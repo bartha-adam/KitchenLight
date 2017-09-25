@@ -12,11 +12,18 @@ Motion detection based light control done with Arduino.
 - 2 and 3 pins screw connector
 
 ### Build instructions:
- In order to build the code using Arduino IDE, install the BH1750 library by claws
+ In order to build the code using Arduino IDE, install the [BH1750](https://github.com/claws/BH1750) library by claws
  
  https://github.com/claws/BH1750
  
  See BH1750 github homepage for details.
+ 
+ ### PCB
+ 
+ PCB was designed with [Fritzing](http://fritzing.org/)
+ Feel free to update/improve the PCB design or suggest improvements, but don't blame me, it's my first PCB design :)
+ 
+ Used blue pnp sheets to transfer the circuit and I think, the result was acceptable...
  
 
  
